@@ -6,7 +6,6 @@ export default class HomePage extends Component {
         return (
             <div>
                 <SearchPage />
-
             </div>
         )
     }
