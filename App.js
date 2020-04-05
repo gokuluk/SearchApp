@@ -15,7 +15,6 @@ class App extends Component {
       return (
          <Router>
             <div>
-               Router
                <Switch>
                   <Route path="/search">
                      <SearchPage />
